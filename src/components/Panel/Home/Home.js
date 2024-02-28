@@ -80,7 +80,7 @@ export default function Home() {
               <Typography
                 fontWeight={500}
                 sx={{
-                  opacity: '0.7',
+                  opacity: '0.8',
                   fontSize: '14px'
                 }}>
                 {date?.date}
